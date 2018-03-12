@@ -1,3 +1,5 @@
 .idea
 kubectl.exe
+windows-amd64
+helm.*
 kubernetes-processed.nuspec
