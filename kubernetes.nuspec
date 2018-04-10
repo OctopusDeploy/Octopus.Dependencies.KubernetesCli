@@ -12,6 +12,5 @@
     <files>
         <!-- https://docs.microsoft.com/en-us/nuget/reference/nuspec#package-folder-structure -->
         <file src="kubectl.exe" target="contentFiles/any/win" />
-        <file src="windows-amd64/helm.exe" target="contentFiles/any/win" />
     </files>
 </package>
